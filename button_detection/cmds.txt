@@ -1,0 +1,1 @@
+ocr_rcnn_env\Scripts\activate
